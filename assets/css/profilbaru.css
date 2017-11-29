@@ -1,0 +1,19 @@
+.section-background{
+	background: url('../images/profilheader.png');
+}
+.about{
+	background: #f3f3f3;
+}
+.about-detail{
+	font-size: 14px;
+	color: #999;
+	font-weight: 200;
+	top: 50%;
+
+}
+.section-item-title, .section-item-detail{
+	text-align: center;
+}
+.about .row:nth-child(4){
+	margin-top: 90px;
+}
